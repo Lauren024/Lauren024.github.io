@@ -1,0 +1,66 @@
+@charset "utf-8";
+.bg-dark {
+    background-color: #f46036!important;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    font-family: serif;
+    color: #FFFFFF;
+    border-color: #F46036;
+}
+.navbar-nav  .nav-item {
+    border: thick solid #7A2209;
+    background-image: linear-gradient;
+    margin-left: 4px;
+    margin-right: 4px;
+    text-align: center;
+    width: 108px;
+}
+.navbar-brand {
+    font-family: serif;
+}
+
+header h2 {
+    font-family: bold serif;
+    color: #0D0C0C;
+    font-size: 350%;
+    text-shadow: 0px 5px 11px;
+    text-align: center;
+    margin-top: 1em;
+    line-height: 1em;
+    letter-spacing: 0.12em;
+}
+header p {
+    font-size: 150%;
+    font-weight: 700;
+    text-align: center;
+    color: #F96B08;
+    line-height: 1em;
+    letter-spacing: 0.4em;
+    font-family: bold serif;
+}
+header {
+    background-color: #F46036;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 80% auto;
+    height: 212px;
+    background-image: url(images/mountain%20logo.jpg);
+}
+nav .container {
+    padding-bottom: 10px;
+    border-bottom: 2px solid #F9805D;
+    }
+body {
+    border-right: 15px solid #F46036;
+    border-left: 15px solid #F46036
+}
+footer {
+    padding-top: 5px;
+    color: #FFF;
+    background-color: #F46036;
+    font-family: serif;
+}
+address {
+    color: #fff;
+    font-family: serif;
+}
