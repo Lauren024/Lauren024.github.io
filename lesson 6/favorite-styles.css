@@ -52,7 +52,8 @@ nav .container {
     }
 body {
     border-right: 15px solid #F46036;
-    border-left: 15px solid #F46036
+    border-left: 15px solid #F46036;
+    font-family: serif;
 }
 footer {
     padding-top: 5px;
