@@ -73,36 +73,37 @@
     <hr>
   </div>
   <!-- TemplateEndEditable -->
-<div class="container">
-  <div class="row">
-        <div class="col-4">
-          <div class="row">
-            <div class="col-2"><img class="rounded-circle" alt="Free Shipping" src="../images/40X40.gif"></div>
-            <div class="col-lg-6 col-10 ml-1">
-              <h4>Free Shipping</h4>
+
+  <!-- TemplateBeginEditable name="MAINCONTENT" -->
+    <div class="wrapper">
+      <div class="container">
+        <div class="row">
+          <div class="col-4">
+            <div class="row">
+              <div class="col-2"><img class="rounded-circle" alt="Free Shipping" src="../images/40X40.gif"></div>
+              <div class="col-lg-6 col-10 ml-1">
+                <h4>Free Shipping</h4>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-4">
-          <div class="row">
-            <div class="col-2"><img class="rounded-circle" alt="Free Shipping" src="../images/40X40.gif"></div>
-            <div class="col-lg-6 col-10 ml-1">
-              <h4>Free Returns</h4>
+          <div class="col-4">
+            <div class="row">
+              <div class="col-2"><img class="rounded-circle" alt="Free Shipping" src="../images/40X40.gif"></div>
+              <div class="col-lg-6 col-10 ml-1">
+                <h4>Free Returns</h4>
+              </div>
             </div>
           </div>
-        </div>
-        <div class="col-4">
-          <div class="row">
-            <div class="col-2"><img class="rounded-circle" alt="Free Shipping" src="../images/40X40.gif"></div>
-            <div class="col-lg-6 col-10 ml-1">
-              <h4>Low Prices</h4>
+          <div class="col-4">
+            <div class="row">
+              <div class="col-2"><img class="rounded-circle" alt="Free Shipping" src="../images/40X40.gif"></div>
+              <div class="col-lg-6 col-10 ml-1">
+                <h4>Low Prices</h4>
+              </div>
             </div>
           </div>
         </div>
       </div>
-    </div>
-  <!-- TemplateBeginEditable name="MAINCONTENT" -->
-    <div class="wrapper">
       <div class="container">
         <h2 class="text-center">INSERT HEADLINE HERE</h2>
         <div class="row">
