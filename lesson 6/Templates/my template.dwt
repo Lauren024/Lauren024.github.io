@@ -22,10 +22,10 @@
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
-          <li class="nav-item"> <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a> </li>
-          <li class="nav-item"> <a class="nav-link" href="#">Event&nbsp;</a> </li>
-          <li class="nav-item"> <a class="nav-link" href="#">Brand&nbsp;</a> </li>
-          <li class="nav-item"><a href="#" class="nav-link">Research</a></li>
+          <li class="nav-item"> <a href="../index.html" target="_self" class="nav-link">Home <span class="sr-only">(current)</span></a> </li>
+          <li class="nav-item"> <a href="../firstpage.html" target="_self" class="nav-link">Event&nbsp;</a> </li>
+          <li class="nav-item"> <a class="nav-link" href="../About-us.html">Brand&nbsp;</a> </li>
+          <li class="nav-item"><a href="../links.html" target="_self" class="nav-link">Research</a></li>
         </ul>
       </div>
     </div>
@@ -80,7 +80,7 @@
         <div class="row">
           <div class="col-4">
             <div class="row">
-              <div class="col-2"><img class="rounded-circle" alt="Free Shipping" src="../images/40X40.gif"></div>
+              <div class="col-2"><img src="../images/freeshipping.png" alt="Free Shipping" height="40" class="rounded-circle" title="Free Shipping"></div>
               <div class="col-lg-6 col-10 ml-1">
                 <h4>Free Shipping</h4>
               </div>
@@ -88,7 +88,7 @@
           </div>
           <div class="col-4">
             <div class="row">
-              <div class="col-2"><img class="rounded-circle" alt="Free Shipping" src="../images/40X40.gif"></div>
+              <div class="col-2"><img src="../images/free return.jpg" alt="free return" width="41" height="40" title="free return"/></div>
               <div class="col-lg-6 col-10 ml-1">
                 <h4>Free Returns</h4>
               </div>
@@ -96,7 +96,8 @@
           </div>
           <div class="col-4">
             <div class="row">
-              <div class="col-2"><img class="rounded-circle" alt="Free Shipping" src="../images/40X40.gif"></div>
+              <div class="col-2"></div>
+              <img src="../images/low price.png" alt="low prices" width="41" height="40" title="low prices"/>
               <div class="col-lg-6 col-10 ml-1">
                 <h4>Low Prices</h4>
               </div>
@@ -203,7 +204,7 @@
           </address>
           <address class="col-6">
             <strong>Contact Us</strong><br>
-            <a href="mailto:#">lumulor@siue.edu&nbsp;</a>
+            <a href="mailto:lumulor@siue.edu">lumulor@siue.edu&nbsp;</a>
           </address>
         </div>
   </div>
