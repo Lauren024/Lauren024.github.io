@@ -2,23 +2,43 @@
 .bg-dark {
     background-color: #f46036!important;
 }
+a:link, a:visited {
+    color: #E0FD3C;
+}
+a:hover  {
+    color: #45EFA2;
+}
+
+body {
+}
+
 .navbar-nav.mr-auto .nav-item .nav-link {
     font-family: serif;
     color: #FFFFFF;
     border-color: #F46036;
 }
+.navbar-nav.mr-auto .nav-item .nav-link:hover  {
+    color: #000;
+    border-color: #F46036;
+}
 .navbar-nav  .nav-item {
-    border: thick solid #7A2209;
+    border: 1px solid #7A2209;
     background-image: linear-gradient, -webkit-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(122,34,9,1.00) 100%);
     background-image: linear-gradient, -moz-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(122,34,9,1.00) 100%);
     background-image: linear-gradient, -o-linear-gradient(270deg,rgba(255,255,255,1.00) 0%,rgba(122,34,9,1.00) 100%);
     background-image: linear-gradient, linear-gradient(180deg,rgba(255,255,255,1.00) 0%,rgba(122,34,9,1.00) 100%);
-    margin-left: 10PX;
-    margin-right: 10PX;
+    margin-left: 4px;
+    margin-right: 4px;
     text-align: center;
     width: 108px;
-    margin-top: 10PX;
-    margin-bottom: 10PX;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+.navbar-nav .nav-item:hover   {
+    background-image: linear-gradient, -webkit-linear-gradient(90deg,rgba(227,51,54,1.00) 0%,rgba(122,34,9,1.00) 100%);
+    background-image: linear-gradient, -moz-linear-gradient(90deg,rgba(227,51,54,1.00) 0%,rgba(122,34,9,1.00) 100%);
+    background-image: linear-gradient, -o-linear-gradient(90deg,rgba(227,51,54,1.00) 0%,rgba(122,34,9,1.00) 100%);
+    background-image: linear-gradient, linear-gradient(0deg,rgba(227,51,54,1.00) 0%,rgba(122,34,9,1.00) 100%);
 }
 .navbar-brand {
     font-family: serif;
@@ -26,7 +46,7 @@
 
 header h2 {
     font-family: bold serif;
-    color: #0D0C0C;
+    color: #050000;
     font-size: 350%;
     text-shadow: 0px 5px 11px;
     text-align: center;
@@ -38,7 +58,7 @@ header p {
     font-size: 150%;
     font-weight: 700;
     text-align: center;
-    color: #F96B08;
+    color: #FC6903;
     line-height: 1em;
     letter-spacing: 0.4em;
     font-family: bold serif;
