@@ -41,14 +41,14 @@ body {
     background-image: linear-gradient, linear-gradient(0deg,rgba(227,51,54,1.00) 0%,rgba(122,34,9,1.00) 100%);
 }
 .navbar-brand {
-    font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 }
 
 header h2 {
-    font-family: bold serif;
-    color: #050000;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    color: #0D0C0C;
     font-size: 350%;
-    text-shadow: 0px 5px 11px;
+    text-shadow: 0px 5px 10px;
     text-align: center;
     margin-top: 1em;
     line-height: 1em;
@@ -58,10 +58,10 @@ header p {
     font-size: 150%;
     font-weight: 700;
     text-align: center;
-    color: #FC6903;
+    color: #0D0705;
     line-height: 1em;
     letter-spacing: 0.4em;
-    font-family: bold serif;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 }
 header {
     background-color: #F46036;
@@ -78,17 +78,17 @@ nav .container {
 body {
     border-right: 15px solid #F46036;
     border-left: 15px solid #F46036;
-    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
 }
 footer {
     padding-top: 5px;
     color: #FFF;
     background-color: #F46036;
-    font-family: serif;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 }
 address {
     color: #fff;
-    font-family: serif;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
 }
 table {
     font-size: 90%;
